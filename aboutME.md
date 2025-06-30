@@ -1,3 +1,8 @@
+---
+title: About
+layout: default
+---
+
 [Home](/engineering-healthcare-project/) | [Innovations](/engineering-healthcare-project/innovations) | [About](/engineering-healthcare-project/aboutME) | [References](/engineering-healthcare-project/resources)
 # About
 
