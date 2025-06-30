@@ -36,7 +36,7 @@ Tommy Dengel was born without his right hand and much of his arm due to a rare c
 
 I’m fascinated by how technology can improve lives and make healthcare more accessible. I hope to learn more and maybe work on projects that make a difference!
 
-**Quick Quiz**
+## **Quick Quiz**
 
 1. Which device uses electromagnetic waves to create images of bones?
    - [ ] Wearable health monitor
@@ -54,3 +54,13 @@ I’m fascinated by how technology can improve lives and make healthcare more ac
   1. X-ray machine  
   2. Reliable healthcare in remote areas
 </details>
+
+## <!-- What’s one medical device or innovation you wish everyone had access to, and how would it improve lives? -->
+<p><b>What do you think?</b> Leave a comment below!</p>
+<script src="https://utteranc.es/client.js"
+        repo="yourusername/your-repo"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
