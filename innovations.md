@@ -7,9 +7,9 @@ Engineering is transforming healthcare in many ways. Here are a few examples:
 - **Telemedicine:** Engineers build secure platforms for remote diagnosis and patient care.
 - **3D Printing:** Prosthetics and implants can be custom-made using 3D printers.
 
-## Real-World Application
+### Real-World Application
 
-### [Tommy’s Journey](https://blog.prusa3d.com/father-made-a-3d-printed-arm-for-his-son-four-inspirational-stories-about-how-our-3d-printers-help_8254/): A 3D-Printed Solution for a Young Hero
+#### [Tommy’s Journey](https://blog.prusa3d.com/father-made-a-3d-printed-arm-for-his-son-four-inspirational-stories-about-how-our-3d-printers-help_8254/): A 3D-Printed Solution for a Young Hero
 Tommy Dengel was born without his right hand and much of his arm due to a rare condition called amniotic band syndrome. Traditional prosthetics didn’t suit him, but everything changed when his father, Adam, discovered the potential of 3D printing. Adam began creating assistive devices for Tommy using a 3D printer. Among several designs, Tommy’s favorite was a prosthetic inspired by Buzz Lightyear’s spacesuit—bringing joy and confidence to his daily life.
 
 ## How do Medical Devices Work?
