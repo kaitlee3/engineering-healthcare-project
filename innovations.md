@@ -13,7 +13,7 @@ Engineering is transforming healthcare in many ways. Here are a few examples:
 Tommy Dengel was born without his right hand and much of his arm due to a rare condition called amniotic band syndrome. Traditional prosthetics didn’t suit him, but everything changed when his father, Adam, discovered the potential of 3D printing. Adam began creating assistive devices for Tommy using a 3D printer. Among several designs, Tommy’s favorite was a prosthetic inspired by Buzz Lightyear’s spacesuit—bringing joy and confidence to his daily life.
 
 <p align="left">
-  <img src="tommy.jpg" alt="A description of my image" width="200"/>
+  <img src="tommy.jpg" alt="A description of my image" width="400"/>
 </p>
 
 ## How do Medical Devices Work?
