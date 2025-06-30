@@ -1,4 +1,4 @@
-[Home](index.md) | [Innovations](innovations.md) | [About](aboutME.md) | [References](resources.md)
+[Home](/) | [Innovations](/innovations) | [About](/aboutME) | [References](/resources)
 
 # Engineering & Healthcare Project
 
