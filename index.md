@@ -1,3 +1,8 @@
+---
+title: Home
+layout: default
+---
+
 [Home](/) | [Innovations](/innovations) | [About](/aboutME) | [References](/resources)
 
 # Engineering & Healthcare Project
