@@ -1,6 +1,5 @@
 ---
 title: Kaitlyn's Engineering and Healthcare Project
-layout: default
 ---
 
 [Home](index.md) | [Innovations](/innovations) | [About](/aboutME) | [References](/resources)
