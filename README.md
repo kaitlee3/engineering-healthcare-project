@@ -9,7 +9,7 @@ Technology is revolutionizing healthcare, and engineers are at the heart of the 
 ## Personal Statement 
 My passion for engineering and healthcare comes from a deep interest in both science and helping people. I've always been fascinated by how the human body works--and equally inspired by the ways technology can solve real world problems. As our healthcare system grows more complex, I want inspire and be part of the next generation of engineers who create smarter, more compassionate, and more accessible solutions for everyone. This project is my first step into discovering meaningful ways to make a difference in people's lives.
 
-## [Read Notes here!](innovations.md)
+## [Read Innovations in Healthcare here!](innovations.md)
 
 ## [Read the About here!](aboutME.md)
 
