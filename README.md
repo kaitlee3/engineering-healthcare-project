@@ -4,6 +4,6 @@ Welcome! This is my mini project exploring how engineering is revolutionizing th
 
 ## [Read the Introduction here!](introduction.md)
 
-## [Read the References here!]
+## [Read the References here!](resources.md)
 
 ## [Read the About here!](aboutME.md)
