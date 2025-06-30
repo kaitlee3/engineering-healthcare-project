@@ -1,4 +1,9 @@
-[Home](index.md) | [Innovations](/innovations) | [About](/aboutME) | [References](/resources)
+---
+title: Kaitlyn's Engineering and Healthcare Project
+layout: default
+---
+
+[Home](/engineering-healthcare-project/) | [Innovations](/engineering-healthcare-project/innovations) | [About](/engineering-healthcare-project/aboutME) | [References](/engineering-healthcare-project/resources)
 
 # Engineering & Healthcare Project
 
