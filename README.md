@@ -4,7 +4,6 @@ Welcome! This is my mini project exploring how engineering is revolutionizing th
 
 ## [Read the Introduction here!](introduction.md)
 
+## [Read the References here!] (resources.md)
 
-## Bio
-# About Me
-I'm Kaitlyn, a student interested in STEM and making a difference!
+## [Read the About here!] (aboutME.md)
