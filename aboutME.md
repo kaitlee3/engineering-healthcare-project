@@ -1,5 +1,4 @@
-[Home](index.md) | [Innovations](innovations.md) | [About](aboutME.md) | [References](resources.md)
-
+[Home](/engineering-healthcare-project/) | [Innovations](/engineering-healthcare-project/innovations) | [About](/engineering-healthcare-project/aboutME) | [References](/engineering-healthcare-project/resources)
 # About
 
 ## About Me
