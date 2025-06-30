@@ -1,7 +1,3 @@
----
-title: Kaitlyn's Engineering and Healthcare Project
----
-
 [Home](index.md) | [Innovations](/innovations) | [About](/aboutME) | [References](/resources)
 
 # Engineering & Healthcare Project
