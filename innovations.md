@@ -56,11 +56,4 @@ I’m fascinated by how technology can improve lives and make healthcare more ac
 </details>
 
 ## <!-- What’s one medical device or innovation you wish everyone had access to, and how would it improve lives? -->
-<p><b>What do you think?</b> Leave a comment below!</p>
-<script src="https://utteranc.es/client.js"
-        repo="yourusername/your-repo"
-        issue-term="title"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+**What do you think? [Join the discussion here!([https://docs.google.com/forms/d/e/1FAIpQLSesZa873qQnvAfJOTWScFQiUeH9PBb2YxxDf8_6smYdLLPvGA/viewform?usp=preview])**
