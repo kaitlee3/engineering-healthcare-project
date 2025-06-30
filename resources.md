@@ -1,3 +1,5 @@
+[Home](README.md) | [Innovations](innovations.md) | [About](aboutME.md) | [References](resources.md)
+
 # Resources & References
 
 A collection of useful links and resources for my Engineering & Healthcare project.
