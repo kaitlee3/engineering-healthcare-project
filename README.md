@@ -2,6 +2,8 @@
 
 Welcome! This is my mini project exploring how engineering is revolutionizing the healthcare system.
 
+[Read the Introduction here!](introduction.md)
+
 ## Why This Project?
 I am passionate about STEM and fascinated by how technology can improve lives. This project is my first step into learning how engineering and healthcare intersect.
 
