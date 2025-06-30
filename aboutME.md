@@ -1,4 +1,4 @@
-[Home](README.md) | [Innovations](innovations.md) | [About](aboutME.md) | [References](resources.md)
+[Home](index.md) | [Innovations](innovations.md) | [About](aboutME.md) | [References](resources.md)
 
 # About
 
