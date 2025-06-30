@@ -35,3 +35,22 @@ Tommy Dengel was born without his right hand and much of his arm due to a rare c
 ## Why This Interests Me
 
 I’m fascinated by how technology can improve lives and make healthcare more accessible. I hope to learn more and maybe work on projects that make a difference!
+
+**Quick Quiz**
+
+1. Which device uses electromagnetic waves to create images of bones?
+   - [ ] Wearable health monitor
+   - [x] X-ray machine
+   - [ ] Robotic surgery system
+
+2. What is a benefit of solar-powered clinics?
+   - [ ] Higher electricity bills
+   - [x] Reliable healthcare in remote areas
+   - [ ] Increased pollution
+
+<details>
+  <summary>Show Answers</summary>
+
+  1. X-ray machine  
+  2. Reliable healthcare in remote areas
+</details>
