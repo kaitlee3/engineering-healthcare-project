@@ -1,3 +1,7 @@
+---
+layout: custom
+title: Kaitlyn’s Engineering and Healthcare Project
+---
 [Home](README.md) | [Innovations](innovations.md) | [About](aboutME.md) | [References](resources.md)
 # Engineering & Healthcare Project
 
