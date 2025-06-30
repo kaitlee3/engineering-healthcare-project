@@ -14,3 +14,6 @@ My passion for engineering and healthcare comes from a deep interest in both sci
 ## [Read the About here!](aboutME.md)
 
 ## [Read the References here!](resources.md)
+
+## Project Updates
+- June 2025: Site launched!
