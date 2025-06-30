@@ -4,14 +4,7 @@ Welcome! This is my mini project exploring how engineering is revolutionizing th
 
 ## [Read the Introduction here!](introduction.md)
 
-## Why This Project?
-I am passionate about STEM and fascinated by how technology can improve lives. This project is my first step into learning how engineering and healthcare intersect.
 
-## What's Here?
-- Research summaries
-- Project ideas
-- Links to inspiring articles and videos
-- My learning notes
-
-## About Me
+## Bio
+# About Me
 I'm Kaitlyn, a student interested in STEM and making a difference!
