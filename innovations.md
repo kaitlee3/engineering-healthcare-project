@@ -1,4 +1,4 @@
-[Home](index.md) | [Innovations](innovations.md) | [About](aboutME.md) | [References](resources.md)
+[Home](/engineering-healthcare-project/) | [Innovations](/engineering-healthcare-project/innovations) | [About](/engineering-healthcare-project/aboutME) | [References](/engineering-healthcare-project/resources)
 
 # Engineering Innovations in Healthcare
 Engineering is transforming healthcare in many ways. Here are a few examples:
