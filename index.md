@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Kaitlyn's Engineering and Healthcare Project
 layout: default
 ---
 
