@@ -3,7 +3,7 @@ title: Kaitlyn's Engineering and Healthcare Project
 layout: default
 ---
 
-[Home](/engineering-healthcare-project/) | [Innovations](/engineering-healthcare-project/innovations) | [About](/engineering-healthcare-project/aboutME) | [References](/engineering-healthcare-project/resources) | [Career Paths & Education](/engineering-healthcare-project/careers)
+[Home](/engineering-healthcare-project/) | [Innovations](/engineering-healthcare-project/innovations) | [About](/engineering-healthcare-project/aboutME) | [References](/engineering-healthcare-project/resources) | [Career Paths & Education](/engineering-healthcare-project/careers.md)
 
 # Engineering & Healthcare Project
 
