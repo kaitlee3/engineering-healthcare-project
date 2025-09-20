@@ -8,7 +8,7 @@ layout: default
 # About
 
 ## About Me
-I'm Kaitlyn, a student interested in STEM and making a difference!
+Hi! I’m Kaitlyn, and I’m deeply interested in the STEM field — particularly biomedical engineering. My journey began with an interest in medicine, inspired by my grandfather. Over time, I discovered my true passion in physics and mathematics, and how they can be applied to solve real-world problems. Now, I’m excited about combining these fields to make a difference in biomedical engineering and beyond.
 
 ## Connect
 - [View my resume](https://github.com/kaitlee3/engineering-healthcare-project/raw/main/Kaitlyn_Lee_Resume_Expanded.pdf)
