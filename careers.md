@@ -3,7 +3,7 @@ title: Careers and Education
 layout: default
 ---
 
-[Home](/engineering-healthcare-project/) | [Innovations](/engineering-healthcare-project/innovations) | [Modules](/engineering-healthcare-project/modules/) | [Career Paths & Education](/engineering-healthcare-project/careers/) | [About](/engineering-healthcare-project/aboutME) | [References](/engineering-healthcare-project/resources) 
+[Home](/engineering-healthcare-project/) | [Innovations](/engineering-healthcare-project/innovations) | [Modules](/engineering-healthcare-project/modules/) | [Career Paths & Education](/engineering-healthcare-project/careers/) | [Projects](/engineering-healthcare-project/projects/) | [References](/engineering-healthcare-project/resources) | [About](/engineering-healthcare-project/aboutME)
 
 <section id="careers-education" style="padding: 2rem 0;">
   <h2>Careers & Education Paths in Engineering Healthcare</h2>
