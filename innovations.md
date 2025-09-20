@@ -3,7 +3,7 @@ title: Innovations
 layout: default
 ---
 
-[Home](/engineering-healthcare-project/) | [Innovations](/engineering-healthcare-project/innovations) | [About](/engineering-healthcare-project/aboutME) | [References](/engineering-healthcare-project/resources)
+[Home](/engineering-healthcare-project/) | [Innovations](/engineering-healthcare-project/innovations) | [Modules](/engineering-healthcare-project/modules/) | [Career Paths & Education](/engineering-healthcare-project/careers/) | [About](/engineering-healthcare-project/aboutME) | [References](/engineering-healthcare-project/resources) 
 
 # Engineering Innovations in Healthcare
 Engineering is transforming healthcare in many ways. Here are a few examples:
