@@ -3,7 +3,7 @@ title: My Code & Projects
 layout: default
 ---
 
-[Home](/engineering-healthcare-project/) | [Innovations](/engineering-healthcare-project/innovations) | [Modules](/engineering-healthcare-project/modules/) | [Career Paths & Education](/engineering-healthcare-project/careers/) | [Projects](/engineering-healthcare-project/projects/) | [References](/engineering-healthcare-project/resources) | [About](/engineering-healthcare-project/aboutME)
+[Home](/engineering-healthcare-project/) | [Innovations](/engineering-healthcare-project/innovations) | [Modules](/engineering-healthcare-project/modules/) | [Career Paths & Education](/engineering-healthcare-project/careers/) | [Code&projects](/engineering-healthcare-project/projects/) | [References](/engineering-healthcare-project/resources) | [About](/engineering-healthcare-project/aboutME)
 
 # Code & Projects
 
